@@ -1,6 +1,19 @@
 # Data_Quest-Projects
+
+Welcome to my Data Science Project Portfolio!
+
+I began my journey into this field of data science in the midst of the Corona Virus pandemic by registering for an online, self-paced, project based, modular, 'boot-camp' (for lack of a better term) offered by Dataquest. I had some prior programming knowledge and experience from a Python course I took at the University of Washington, some work experience with Visual Basic, and two semesters of Fortran; which I completed as a requirement for my engineering degree.
+
+Every Dataquest module consists of a series of tutorials. At the end, there is a project with datasets and guidelines. It's completely up to the student on how they approach each one. I've uploaded 13 projects as examples of my approach. Below is a content guide to each project. I've organized them in order of my learning journey; starting with Basic and Intermediate Python, Data Cleaning and Wrangling, all the way through to Deep Learning.
+
+Completing the Dataquest modules and these projects are just the first step in my long journey to becoming a data scientist. They've helped me to build confidence as I continue to take on new and exciting challenges in this daunting yet exhilarating field. Please feel free to let me know what you think. I welcome any suggestions, or feedback on how I can improve as building blocks to learning and growing.
+
+Enjoy! 
+
+
 ## Basic and Intermediate Python, Data Cleaning and Wrangling 
 
+#### Project 1
 #### *Profitable App Profiles for the App Store and Google Play Markets*
 Using practical data analysis, to make business recommendations.
 - Lists and for loops
@@ -8,44 +21,51 @@ Using practical data analysis, to make business recommendations.
 - Dictionaries and frequency tables
 - Functions 
 
-####	*Exploring Hacker News Posts*
+#### Project 2
+#### *Exploring Hacker News Posts*
 Understanding Hacker News posting activity throughout the day.
 -	Importing data
 -	String methods
 -	Datetime objects
 
-####	*Exploring EBay Car Sales Data*
+#### Project 3
+#### *Exploring EBay Car Sales Data*
 Exploring relationships between brands, models, conditions, and prices of cars
 - Pandas fundamentals
 - Numpy fundamentals
 
-##	Data Visualization
+## Data Visualization
 
+#### Project 4
 #### *Visualizing Earnings Based on College Majors*
 Exploring the most popular majors between men and women, and what they pay.
 - Advanced Pandas
 -	Advanced Numpy
 -.	Matplotlib 
 
-##	Statistics
+## Statistics
 
+#### Project 5
 #### *Investigating Fandango Movie Ratings* 
 Using mean, median and mode to determine if Fandango is still inflating movie ratings.
 -	Sampling
 -	Frequency Distributions
 -	Mean, median, mode
 
-####	*Finding the Best Two Markets to Advertise In*
+#### Project 6
+#### *Finding the Best Two Markets to Advertise In*
 Using data science and statistics for effective advertising.
 -	Sampling 
 -	Mean, median, mode
 -	Z-Scores
 -	Seaborn for visualization
 
-####	*Mobile App for Lottery Addiction*
+#### Project 7
+#### *Mobile App for Lottery Addiction*
 App that helps lottery addicts better understand their odds of winning the lottery.
 -	Combinations and Permutations
 
+#### Project 8
 #### *Building a Spam Filter with Naïve Bayes*
 Classifying incoming emails as ‘spam’ or ‘ham’ using Naïve Bayes formula.
 -	Naïve Bayes
@@ -53,15 +73,17 @@ Classifying incoming emails as ‘spam’ or ‘ham’ using Naïve Bayes formul
 -	Accuracy rate
 -	Randomizing and splitting datasets
 
-##	Machine Learning
+## Machine Learning
 
-####	*Predicting Car Prices* 
+#### Project 9
+#### *Predicting Car Prices* 
 Practice machine learning workflow to make predictions on a car’s market price
 -	K-Nearest Neighbors Algorithm
 -	Hold-out validation method
 -	K-Fold validation method
 -	Root mean squared error
 
+#### Project 10
 #### *Predicting House Sale Prices*
 Determining which features are the best predictors of home sales prices with feature selection and linear regression.
 -	Linear Regression
@@ -71,12 +93,14 @@ Determining which features are the best predictors of home sales prices with fea
 -	Categorical and Numerical data
 -	Feature transformation
 
-####	*Predicting the Stock Market*
+#### Project 11
+#### *Predicting the Stock Market*
 Aggregating datetime objects on daily S&P 500 data and linear regression to predict closing price. 
 -	Datetime
 -	Selecting indicators
 - Linear regression
 
+#### Project 12
 #### *Predicting Bike Rentals* 
 Predict the total number of bikes rented in a given hour by evaluating the performance of various machine learning algorithms.
 - Linear regression
@@ -85,8 +109,9 @@ Predict the total number of bikes rented in a given hour by evaluating the perfo
 -	Feature selection
 -	Assigning values to categorical data
 
-##	*Deep Learning*
+## *Deep Learning*
 
+#### Project 13
 #### *Building a Handwritten Digits Classifier*
 Using images from the MNIST database to explore the effectiveness of deep feed-forward neural networks
 -	Neural networks
