@@ -109,7 +109,7 @@ Predict the total number of bikes rented in a given hour by evaluating the perfo
 -	Feature selection
 -	Assigning values to categorical data
 
-## *Deep Learning*
+## Deep Learning
 
 #### Project 13
 #### *Building a Handwritten Digits Classifier*
