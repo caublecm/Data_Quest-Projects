@@ -2,11 +2,9 @@
 
 Welcome to my Data Science Project Portfolio!
 
-I began my journey into this field of data science in the midst of the Corona Virus pandemic by registering for an online, self-paced, project based, modular, 'boot-camp' (for lack of a better term) offered by Dataquest. I had some prior programming knowledge and experience from a Python course I took at the University of Washington, some work experience with Visual Basic, and two semesters of Fortran; which I completed as a requirement for my engineering degree.
-
 Below is a content guide to each project. I've organized them in order of my learning journey; starting with Basic and Intermediate Python, Data Cleaning and Wrangling, all the way through to Deep Learning.
 
-Completing the Dataquest modules and these projects are just the first step in my long journey to becoming a data scientist. They've helped me to build confidence as I continue to take on new and exciting challenges in this daunting yet exhilarating field. Please feel free to let me know what you think. I welcome any suggestions, or feedback on how I can improve as building blocks to learning and growing.
+Please feel free to let me know what you think. I welcome any suggestions, or feedback on how I can improve as building blocks to learning and growing.
 
 Enjoy! 
 
